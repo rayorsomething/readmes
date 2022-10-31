@@ -7,13 +7,9 @@ Depending on the game you can host lobbies
     - Request to come onto the Stage
     - Tell us in chat (or via voice) that you want to host an Among Us server
 - Minecraft:
-    -
-    
     - Request to come onto the Stage
     - Tell us in chat (or via voice) that you want to host a Minecraft server
 - TF2:
-    -
-    
     - Request to come onto the Stage
     - Tell us in chat (or via voice) that you want to host a TF server
 
