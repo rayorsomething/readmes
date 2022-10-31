@@ -1,7 +1,7 @@
 # 🎥 Ray's View 🎥
 
 ### ⏲️ Waiting  
-  
+###  
 ### 🔪 Among Us
 ### 🪓 Minecraft
 ### 🏟️ Brawlhalla
