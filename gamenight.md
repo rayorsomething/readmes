@@ -5,7 +5,7 @@
 Depending on the game you can host lobbies  
 - Among Us:
     - Request to come onto the Stage
-    - Tell us in chat (or via voice) that you want to host an Among Us server
+    - Tell us in chat (or via voice) that you want to host an Among Us lobby
 - Minecraft:
     - Request to come onto the Stage
     - Tell us in chat (or via voice) that you want to host a Minecraft server
