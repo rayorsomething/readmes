@@ -1,5 +1,3 @@
-
-## Game Night
 ### 📣 How to join the Game 📣
 - Join the game shown on this Stream
 - Send your username in chat
